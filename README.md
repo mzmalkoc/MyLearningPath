@@ -5,3 +5,5 @@ Miuul - Data Scientist Path
 1. Python Programming for Data Science
 2. CRM Analytics
 3. Recommendation Systems
+4. Measurement Problems
+   
