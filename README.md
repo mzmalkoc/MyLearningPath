@@ -6,4 +6,5 @@ Miuul - Data Scientist Path
 2. CRM Analytics
 3. Recommendation Systems
 4. Measurement Problems
-   
+5. Feature Engineering
+
