@@ -7,5 +7,6 @@ Miuul - Data Scientist Path
 3. Recommendation Systems
 4. Measurement Problems
 5. Feature Engineering
-6. Machine Learning   \n
-   I. Fundamental Concepts
+6. Machine Learning
+  I. Fundamental Concepts
+   
