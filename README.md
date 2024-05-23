@@ -10,4 +10,5 @@ Miuul - Data Scientist Path
 6. Machine Learning
  - 6.1. Fundamental Concepts
  - 6.2. Linear Regression
+ - 6.3. Logistic Regression
    
