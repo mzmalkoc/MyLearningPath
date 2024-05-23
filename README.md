@@ -8,5 +8,6 @@ Miuul - Data Scientist Path
 4. Measurement Problems
 5. Feature Engineering
 6. Machine Learning
-  - I. Fundamental Concepts
+  - 6.1. Fundamental Concepts
+  - 6.2. Linear Regression
    
