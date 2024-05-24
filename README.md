@@ -11,4 +11,4 @@ Miuul - Data Scientist Path
  - 6.1. Fundamental Concepts
  - 6.2. Linear Regression
  - 6.3. Logistic Regression
-   
+ - 6.4. KNN (K-Nearest Neighbors)
