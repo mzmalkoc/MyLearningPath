@@ -12,3 +12,4 @@ Miuul - Data Scientist Path
  - 6.2. Linear Regression
  - 6.3. Logistic Regression
  - 6.4. KNN (K-Nearest Neighbors)
+ - 6.5. CART (Classification and Regression Tree)
