@@ -14,3 +14,4 @@ Miuul - Data Scientist Path
  - 6.4. KNN (K-Nearest Neighbors)
  - 6.5. CART (Classification and Regression Tree)
  - 6.6. Advanced Tree Methods (Random Forest / AdaBoost / GBM / XGBoost / LigthGBM / CatBoost)
+ - 6.7. Unbalanced Dataset
