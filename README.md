@@ -16,3 +16,4 @@ Miuul - Data Scientist Path
  - 6.6. Advanced Tree Methods (Random Forest / AdaBoost / GBM / XGBoost / LigthGBM / CatBoost)
  - 6.7. Unbalanced Dataset
  - 6.8. Unsupervised Learning (K-Means Clustering / Hierarchical Cluster / Principal Component Analysis(PCA))
+ - 6.9. Machine Learning Pipeline
