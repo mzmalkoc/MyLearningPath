@@ -7,7 +7,7 @@ Miuul - Data Scientist Path
 3. Recommendation Systems
 4. Measurement Problems
 5. Feature Engineering
-   - Outliers
-   - Missing Values
-   - Encoding Scaling
-   - Feature Extraction
+   - 5.1. Outliers
+   - 5.2. Missing Values
+   - 5.3. Encoding Scaling
+   - 5.4. Feature Extraction
